@@ -3,10 +3,10 @@ import json
 
 
 class Msg():
-	auth_id='MAODUZYTQ0Y2FMYJBLOW'
-	auth_token='Mzk0MzU1Mzc3MTc1MTEyMGU2M2RlYTIwN2UyMzk1'
-	sub_auth_id='SAYZA2MTZJZDLJNWUXZJ'
-	sub_auth_token='NTk5NGIzYzVkZDhiNTI2NDExNGY0YzkwYWEzNTll'
+	auth_id='******************'
+	auth_token='*******************'
+	sub_auth_id='******************'
+	sub_auth_token='****************'
 	base_url='https://api.plivo.com/v1/Account/'
 		
 	def account(self):
