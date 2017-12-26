@@ -1,5 +1,5 @@
 # plivo_assignment
 To send message from source number to destination number,
-please put the account credentials in message.py,
-mention src,dst,text variables in testing_msg.py.
+please put the account credentials in message.py, and
+mention src,dst numbers, text to send in testing_msg.py.
 Run testing_msg.py to get the results
